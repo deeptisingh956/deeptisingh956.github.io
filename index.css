@@ -31,3 +31,6 @@ footer{
     bottom: 0;
     width: 100%;
 }
+.f-bottom{
+    position: fixed;
+}
